@@ -1,6 +1,7 @@
 .container{
   width:1170;
   margin:0 auto;
+  background-image:URL("top.png");
 }
 
 .site_title{
