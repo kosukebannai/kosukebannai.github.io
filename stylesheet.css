@@ -1,0 +1,25 @@
+.container{
+  width:1170;
+  margin:0 auto;
+}
+
+.site_title{
+  text-align: center;
+}
+
+.site_title h1{
+  font-size: 36pt;
+}
+
+.site_menu{
+  text-align: center;
+}
+
+.site_menu ul{
+  list-style-type: none;
+}
+
+.site_menu li{
+  float:left;
+  width:25%;
+}
